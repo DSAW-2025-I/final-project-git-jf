@@ -4,7 +4,7 @@
 ### Universidad de La Sabana
 #### 2024 - I
 
-# La URL del front desplegado:
-# La URL del back desplegado:
-# La URL del repositorio de front desplegado:
-# La URL del respositorio de back desplegado:
+## La URL del front desplegado: https://final-project-git-jf.vercel.app/
+## La URL del back desplegado: No Logrado
+## La URL del repositorio de front desplegado: https://github.com/DSAW-2025-I/final-project-git-jf.git
+## La URL del respositorio de back desplegado: No logrado
